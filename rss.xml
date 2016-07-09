@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[pALEKAITE & kAHN]]></title>
         <description><![CDATA[pALEKAITE & kAHN]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/palekaite-kahn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 21:51:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jul 2016 22:03:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/palekaite-kahn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06a91a63-650a-466d-ad21-4e554b9fb8e0.jpg">]]></description>
-            <link>undefined7d33af45-a28f-4509-b530-02a6b2f75607/index.html</link>
+            <link>https://thegrid.ai/palekaite-kahn/7d33af45-a28f-4509-b530-02a6b2f75607/index.html</link>
             <guid isPermaLink="false">7d33af45-a28f-4509-b530-02a6b2f75607</guid>
             <pubDate>Sat, 09 Jul 2016 21:51:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Didieji Lietuvos miestai | Orai.lt]]></title>
+            <description><![CDATA[<article><h1>Didieji Lietuvos miestai | Orai.lt</h1><p>Orų prognozės Lietuvoje. Ilgalaikė 10 dienų orų prognozės Lietuvos didmiesčiams, kurortams, kitoms vietovėms. Kita naudinga informacija apie orus Lietuvoje.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/61e91aaa470853ac5db3fdf0311ee075/noop.png?input=http%3A%2F%2Fs1.15cdn.lt%2Fimg%2Ftouch_icons%2F144x144%2Forai_lt.png"></article>]]></description>
+            <link>http://www.orai.lt</link>
+            <guid isPermaLink="false">7b1925bc-eebb-462e-9fed-53c2ec7bc253</guid>
+            <pubDate>Sat, 09 Jul 2016 22:03:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
